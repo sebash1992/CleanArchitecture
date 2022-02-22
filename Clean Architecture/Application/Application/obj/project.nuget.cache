@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LqMFDET0x9E1WrUA+lt0fQsXb1Utmk1+OJGTozsLYT9dJUcFay5HKHuRcfKkX6kRZ+JnaxdTyl5ZdasAFPPNfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sebastían Herrera\\Documents\\Dev\\CleanArchitecture\\Clean Architecture\\Application\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sebastían Herrera\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Sebastían Herrera\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Sebastían Herrera\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Sebastían Herrera\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
